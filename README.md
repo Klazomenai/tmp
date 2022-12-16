@@ -1,2 +1,2 @@
 # tmp
-t m p
+tmp
